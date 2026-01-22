@@ -4,7 +4,7 @@ We build intelligent systems with craft.
 Boutique studio building AI-powered automations, custom software, and digital experiences.
 We help teams reduce complexity, move faster, and operate with clarity.
 
-A senior team delivering custom software, automation, and product design with clarity and craft.
+A senior team delivering custom software, automation, and product design with clarity and reliability.
 
 ---
 
@@ -12,7 +12,7 @@ A senior team delivering custom software, automation, and product design with cl
 
 ### AI Automation
 - Workflow automation
-- CRM / ERP / email automations
+- CRM, ERP, and email automations
 - Internal tools automation
 - Document intelligence
 - LLM-powered agents
